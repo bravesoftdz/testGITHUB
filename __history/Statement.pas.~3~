@@ -1,0 +1,23 @@
+unit Statement;
+
+interface
+type
+  Customer = class
+    function statement(TextStatement: string) : string;
+
+  end;
+
+  Statement = class
+
+  end;
+
+  TextStatement = class(Statement)
+
+  end;
+
+  HTMLStatement = class(Statement)
+
+  end;
+implementation
+
+end.

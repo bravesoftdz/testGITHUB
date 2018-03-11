@@ -1,0 +1,17 @@
+unit Statement;
+
+interface
+  Statement = class
+
+  end;
+
+  TextStatement = class(Statement)
+
+  end;
+
+  HTMLStatement = class(Statement)
+
+  end;
+implementation
+
+end.
