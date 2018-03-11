@@ -2,10 +2,7 @@ program Project1;
 
 uses
   Vcl.Forms,
-  Unit1 in 'Unit1.pas' {Form1},
-  Statement in 'Statement.pas',
-  TextStatement in 'TextStatement.pas',
-  HTMLStatement in 'HTMLStatement.pas';
+  Unit1 in 'Unit1.pas' {Form1};
 
 {$R *.res}
 
