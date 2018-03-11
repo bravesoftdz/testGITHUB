@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.564,=C:\Users\ShcIZ\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.03.11 16:21:10.054,=C:\Users\ShcIZ\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.03.11 16:21:27.967,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit1.dfm=C:\Users\ShcIZ\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.03.11 16:21:27.967,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit1.pas=C:\Users\ShcIZ\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.03.11 16:21:30.333,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Project1.dproj=C:\Users\ShcIZ\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
