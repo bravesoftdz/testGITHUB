@@ -31,7 +31,7 @@ var
   Pname,Pdolg,Pbonus:string;
 begin
   Pname:='<h2>Учет аренды для ' + name + '</h2>';
-  Pdolg:='<p>Задолженность: ' + '<em>' + zadolzhnost  + '</em>' + ' рублей </p>';
+  Pdolg:='<p>Задолженность: ' + '<em>' + zadolzhnost  + '<em>' + ' рублей </p>';
   Pbonus:='<p>Количество бонусов: ' + '<em>' + bonus + '</em>' + '</p>';
   result:= Pname + Pdolg + Pbonus;
 end;
