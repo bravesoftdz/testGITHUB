@@ -3,9 +3,9 @@ program Project1;
 uses
   Vcl.Forms,
   Unit1 in 'Unit1.pas' {Form1},
-  Statement in 'Statement.pas',
-  TextStatement in 'TextStatement.pas',
-  HTMLStatement in 'HTMLStatement.pas';
+  UStatement in 'UStatement.pas',
+  UTextStatement in 'UTextStatement.pas',
+  UHTMLStatement in 'UHTMLStatement.pas';
 
 {$R *.res}
 

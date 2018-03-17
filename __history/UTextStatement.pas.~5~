@@ -1,0 +1,33 @@
+unit UTextStatement;
+
+interface
+
+uses
+  UStatement;
+
+type
+  TTextStatement = class(TCustomer)
+  private
+    zadolzhnost, bonus: string;
+  published
+    constructor create(_zadolzhnost, _bonus : string);
+  public
+    function GetTextStatement: string; override;
+    StatementALL: string;
+  end;
+implementation
+
+{ TTextStatement }
+
+constructor TTextStatement.create(_zadolzhnost, _bonus: string);
+begin
+  zadolzhnost:=_zadolzhnost;
+  bonus:=_bonus;
+end;
+
+function TTextStatement.GetTextStatement: string;
+begin
+  StatementALL:='Hello2'
+end;
+
+end.

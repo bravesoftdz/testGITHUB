@@ -1,0 +1,39 @@
+unit UTextStatement;
+
+interface
+
+uses
+  UStatement;
+
+type
+  TTextStatement = class(TCustomer)
+  private
+    zadolzhnost, bonus: string;
+  published
+    constructor create(_zadolzhnost, _bonus : string);
+  public
+    function GetHTMLStatement: string; override;
+    function GetTextStatement: string; override;
+  end;
+
+implementation
+
+{ TTextStatement }
+
+constructor TTextStatement.create(_zadolzhnost, _bonus: string);
+begin
+  zadolzhnost:=_zadolzhnost;
+  bonus:=_bonus;
+end;
+
+function TTextStatement.GetHTMLStatement: string;
+begin
+  result:='';
+end;
+
+function TTextStatement.GetTextStatement: string;
+begin
+  result:=zadolzhnost + bonus + 'KEK';
+end;
+
+end.

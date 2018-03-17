@@ -2,8 +2,8 @@ object Form1: TForm1
   Left = 0
   Top = 0
   Caption = 'Form1'
-  ClientHeight = 242
-  ClientWidth = 527
+  ClientHeight = 94
+  ClientWidth = 430
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -13,4 +13,64 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Label1: TLabel
+    Left = 8
+    Top = 38
+    Width = 72
+    Height = 13
+    Caption = #1047#1072#1076#1086#1083#1078#1085#1086#1089#1090#1100':'
+  end
+  object Label2: TLabel
+    Left = 8
+    Top = 65
+    Width = 97
+    Height = 13
+    Caption = #1047#1072#1088#1072#1073#1086#1090#1072#1085#1086' '#1086#1095#1082#1086#1074':'
+  end
+  object Label3: TLabel
+    Left = 8
+    Top = 8
+    Width = 23
+    Height = 13
+    Caption = #1048#1084#1103':'
+  end
+  object Button1: TButton
+    Left = 272
+    Top = 8
+    Width = 129
+    Height = 25
+    Caption = #1042#1099#1074#1077#1089#1090#1080' '#1086#1090#1095#1077#1090' '#1074' ACSII'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Edit1: TEdit
+    Left = 118
+    Top = 5
+    Width = 121
+    Height = 21
+    TabOrder = 1
+  end
+  object Edit2: TEdit
+    Left = 118
+    Top = 35
+    Width = 121
+    Height = 21
+    TabOrder = 2
+  end
+  object Button2: TButton
+    Left = 272
+    Top = 42
+    Width = 129
+    Height = 25
+    Caption = #1042#1099#1074#1077#1089#1090#1080' '#1086#1090#1095#1077#1090' '#1074' HTML'
+    TabOrder = 3
+    OnClick = Button2Click
+  end
+  object Edit3: TEdit
+    Left = 118
+    Top = 62
+    Width = 121
+    Height = 21
+    TabOrder = 4
+  end
 end

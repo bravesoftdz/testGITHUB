@@ -1,0 +1,32 @@
+unit UHTMLStatement;
+
+interface
+
+uses
+  UStatement;
+
+type
+  THTMLStatement = class(TCustomer)
+  private
+    zadolzhnost, bonus: string;
+  published
+    constructor create(_zadolzhnost, _bonus : string);
+  public
+    function GetHTMLStatement: string; override;
+  end;
+implementation
+
+{ THTMLStatement }
+
+constructor THTMLStatement.create(_zadolzhnost, _bonus: string);
+begin
+  zadolzhnost:=_zadolzhnost;
+  bonus:=_bonus;
+end;
+
+function THTMLStatement.GetHTMLStatement: string;
+begin
+  StatementALL:='Hello1'
+end;
+
+end.

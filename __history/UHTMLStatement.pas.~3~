@@ -1,0 +1,19 @@
+unit UHTMLStatement;
+
+interface
+
+uses
+  UStatement;
+
+type
+  THTMLStatement = class(TSite)
+  private
+    zadolzhnost, bonus: string;
+  published
+    constructor create(_zadolzhnost, _bonus : string);
+  public
+    function GetHTMLStatement: string; override;
+  end;
+implementation
+
+end.

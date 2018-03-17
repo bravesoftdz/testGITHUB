@@ -1,0 +1,20 @@
+unit UTextStatement;
+
+interface
+
+uses
+  UStatement;
+
+type
+  TTextStatement = class(TSite)
+  private
+    zadolzhnost, bonus: string;
+  published
+    constructor create(_zadolzhnost, _bonus : string);
+  public
+    function GetTextStatement: string; override;
+  end;
+
+implementation
+
+end.

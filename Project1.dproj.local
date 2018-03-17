@@ -1,16 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.771,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit4.pas=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\HTMLStatement.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.491,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit2.pas=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Statement.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.191,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit3.pas=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\TextStatement.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,C:\Users\ShcIZ\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,=C:\Users\ShcIZ\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.564,=C:\Users\ShcIZ\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018.03.11 16:21:10.054,=C:\Users\ShcIZ\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018.03.11 16:21:27.967,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit1.pas=C:\Users\ShcIZ\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018.03.11 16:21:27.967,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit1.dfm=C:\Users\ShcIZ\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2018.03.11 16:21:30.333,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Project1.dproj=C:\Users\ShcIZ\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2018.03.11 16:23:24.776,=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit2.pas</Transaction>
-    <Transaction>2018.03.11 16:23:29.375,=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit3.pas</Transaction>
-    <Transaction>2018.03.11 16:23:33.144,=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit4.pas</Transaction>
-    <Transaction>2018.03.11 16:23:53.771,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\HTMLStatement.pas=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit4.pas</Transaction>
-    <Transaction>2018.03.11 16:24:00.191,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\TextStatement.pas=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit3.pas</Transaction>
-    <Transaction>2018.03.11 16:24:02.491,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Statement.pas=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,C:\Users\ShcIZ\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.333,C:\Users\ShcIZ\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Project1.dproj</Transaction>
+    <Transaction>2018.03.17 14:52:30.482,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\UStatement.pas=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\Statement.pas</Transaction>
+    <Transaction>2018.03.17 14:52:35.871,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\UHTMLStatement.pas=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\HTMLStatement.pas</Transaction>
+    <Transaction>2018.03.17 14:52:44.127,C:\Users\ShcIZ\Videos\Delphi\testGITHUB\UTextStatement.pas=C:\Users\ShcIZ\Videos\Delphi\testGITHUB\TextStatement.pas</Transaction>
   </Transactions>
 </BorlandProject>
